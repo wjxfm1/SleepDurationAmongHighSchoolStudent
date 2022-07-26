@@ -5,7 +5,7 @@
 ### Background
 ### Insufficient sleep among children and adolescents is associated with increased risk for obesity, diabetes, injuries, poor mental health, attention and behavior
 ### problems, and poor academic performance.
-### The American Academy of Sleep Medicine has recommended that, for optimal health, teens aged 13–18 years should sleep 8–10 hours per 24 hours. Thus, those who sleep ### less than 8 hours are considered having short sleep duration problem.
+### The American Academy of Sleep Medicine has recommended that, for optimal health, teens aged 13–18 years should sleep 8–10 hours per 24 hours. Thus, those who sleep less than 8 hours are considered having short sleep duration problem.
 ### In the 2017 Youth Risk Behavior Survey (YRBS), a question about sleep duration in the questionnaire was answered by high school students in 38 states. 
 
 #### There is only one rmd file, and everything is included in it.
