@@ -10,7 +10,8 @@ In the 2017 Youth Risk Behavior Survey (YRBS), a question about sleep duration i
 Seven predictors, including drinking habits, eating habits, playing with computers, smoking, violence, gender, and race were chosen to analyze their relationship with one response variable (sleep duration per school night). Five ML models were used to analyze the dataset: linear regression, logistic regression, k-nearest neighbors, Naïve Bayes, and tree models. Then, we applied 3-fold cross validation and variable selection approaches (backward, forward, and stepwise selection, and regularization regression methods (bagging, random forest, and boosting) to verify and fine-tune ML models. 
 
 * #### Step 1: load the dataset
-The dataset can be found at https://drive.google.com/file/d/1bwbt_k0eq2yaii3dTdCC5DH7OiwHhmCk/view?usp=drive_web
+The dataset can be found at
+The corresponding vocabulary is 
 
 * #### Step 2: clean the dataset
 Run final-exploratory.ipynb.
