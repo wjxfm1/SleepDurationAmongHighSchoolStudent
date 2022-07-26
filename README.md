@@ -13,7 +13,7 @@ Seven predictors, including drinking habits, eating habits, playing with compute
 The dataset can be found at (https://drive.google.com/file/d/1bwbt_k0eq2yaii3dTdCC5DH7OiwHhmCk/view?usp=drive_web) <br>
 The corresponding vocabulary is 2017_yrbs_sadc_documentation.pdf
 
-* #### Step 2: clean the dataset
+* #### Step 2: clean and explore the dataset
 Run final-exploratory.ipynb.
 
 * #### Step 3: Run the ML methods.
