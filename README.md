@@ -11,7 +11,7 @@ Seven predictors, including drinking habits, eating habits, playing with compute
 
 * #### Step 1: load the dataset
 The dataset can be found at
-The corresponding vocabulary is 
+The corresponding vocabulary is worldvalues-dictionary.pdf
 
 * #### Step 2: clean the dataset
 Run final-exploratory.ipynb.
